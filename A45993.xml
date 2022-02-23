@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act to supply the defects and for the better execution of an act passed this present session of Parliament, entituled, An act for the better suppressing tories, and rapparees, and for preventing robberies, burglaries, and other hainous crimes.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45993</idno>
+            <idno type="STC">Wing I328</idno>
+            <idno type="STC">ESTC R39294</idno>
+            <idno type="EEBO-CITATION">18367702</idno>
+            <idno type="OCLC">ocm 18367702</idno>
+            <idno type="VID">107366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act to supply the defects and for the better execution of an act passed this present session of Parliament, entituled, An act for the better suppressing tories, and rapparees, and for preventing robberies, burglaries, and other hainous crimes.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Act for the better suppressing tories, and rapparees.</term>
+               <term>Brigands and robbers --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107366:1"/>
+            <p>AN ACT TO Supply the Defects; AND For the better Execution of an ACT Paſſed this preſent <hi>Seſſion of Parliament.</hi> ENTITULED, An Act for the better Suppreſſing Tories, and Rapparees; and for prevent<g ref="char:EOLhyphen"/>ing Robberies, Burglaries, and other Hainous Crimes.</p>
+            <p>
+               <hi>DUBLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107366:2"/>
+            <pb n="3" facs="tcp:107366:2"/>
+            <head>An ACT to Supply the Defects, and for the better Execution of an Act paſſed this preſent Seſſion of Parliament, Entituled, <hi>An Act for the better ſuppreſſig Tories and Rapparees; and for preventing Robberies, Burglaries, and other hainous Crimes.</hi>
+            </head>
+            <head type="sub">CHAP. XXXIV.</head>
+            <p>VVHereas an Act made in this preſent Seſſion of Parliament, Entituled, <hi>An Act for the better ſuppreſſing Tories and Rapparees; and for preventing Robberies, Bur<g ref="char:EOLhyphen"/>glaries, and other hainous Crimes:</hi> Hath not had it's due Effect, by Reaſon there is not in the ſaid Act, ſufficient Proviſion made for prevention of Murthers and Maims, that ſhall, or may be Committed by ſuch Robber, Tory, or Rappareé. As alſo, by Reaſon of other Defects in the ſaid Act, and ſome Doubts ariſen on the ſame, and Difficulties in Proſecution thereof.</p>
+            <p>For Remedy therefore of the ſaid Defects, Ex<g ref="char:EOLhyphen"/>plaining the ſaid Doubts, and Rendering the Execution of the ſaid Act more eaſie.</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty; by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame; That where any perſon or perſons, ſhall at any time after the Sixth of <hi>November,</hi> One thouſand Six hundred Ninety ſeaven, be Murthered, Maimed, or
+<pb n="4" facs="tcp:107366:3"/>
+Diſmembred by any Robber, Tory, or Rappareé, and the Offender, or Offenders, or the Major part of them ſhall not be Killed, or Apprehen<g ref="char:EOLhyphen"/>ded, and brought before ſome Iuſtice of the Peace, or other Magiſtrate, within Six Callendary Months, next after the committal of ſuch Of<g ref="char:EOLhyphen"/>fence, in Order to his, or their being Proſecuted for the ſame, according to Law. The reſpective Grand Iuries of the ſeveral Counties in this Kingdom, where ſuch Fact ſhall be committed ſhall, and are hereby Required, at any Aſſizes, to be held for ſuch County, within One Year after ſuch Fact committed, to preſent, and charge upon the Popiſh, or Proteſtant Inhabitants of ſuch County reſpectively, and proportionably, ac<g ref="char:EOLhyphen"/>cording as the Number of ſuch Robbers, To<g ref="char:EOLhyphen"/>ries, or Rappareés, ſhall be Papiſts, or reputed Papiſts, or Proteſtants, as is herein after men<g ref="char:EOLhyphen"/>tioned, the Summs following: (That is to ſay) in Caſe of Murther, ſuch Summ or Summs of Money, not exceéding Twenty pounds; and in Caſe of Maim, or Diſmembering any perſon, ſuch Summ or Summs of Money, not exceéd<g ref="char:EOLhyphen"/>ing Ten pounds, as ſuch Grand Iuries on conſideration had, of the Quality of the perſon Murthered, Maimed, and Diſmembered, and circumſtances of his Family ſhall think fit; ſuch Summ, in Caſe of Murther, to be paid to, and for the Vſe of the Widow, and Children of the party Murthered; or if he ſhall not be Marryed at the time of his Death, then to the Vſe of his Children, or other next Relation: And in caſe of Maim or Diſmembering of any perſon, then ſuch Summ to be paid to the Vſe of the perſon, or perſons, ſo Maimed, or Diſmembered; or if he ſhall Dye before the Recovery thereof, then to
+<pb n="5" facs="tcp:107366:4"/>
+the Vſe of his Widow, Children, or other Re<g ref="char:EOLhyphen"/>lations reſpectively, as is aforeſaid, in Caſe of Murther: The ſaid Summ or Summs, not be Aſſets in the hands of ſuch Widow, Children, or Relations, or liable to anſwer, or ſatisfie any Debt or Debts, of the party Deceaſed; which Summ ſo to be Preſented, ſhall be paid by ſuch, and born by the perſons in manner, and accor<g ref="char:EOLhyphen"/>ding to the proportions following: That is to ſay, where ſuch Robbers, Tories, or Rappareés are, or ſhall be Papiſts, or Reputed of the Po<g ref="char:EOLhyphen"/>piſh Religion, by the Papiſts Inhabitants of ſuch County; and where ſuch Robbers, Tories, or Rappareés are, or ſhall be Proteſtants, or Re<g ref="char:EOLhyphen"/>puted to be of the Proteſtant Religion, by the Proteſtant Inhabitants of ſuch County, and where the ſaid Facts ſhall be committed by Papiſts and Proteſtants, then by the Popiſh and Proteſtant Inhabitants of ſuch County, in ſuch proportion, and according to the number of ſuch Papiſts and Proteſtants, as ſhall commit the ſame. For the Levying of which Summ, ſuch Proceſs in the Nature of an Execution, ſhall Iſſue on ſuch Preſentment againſt any one, or more of the perſons chargeable therewith, and ſuch Contribution had, Taxed, and Levyed for his Relief, againſt all the other perſons Charge<g ref="char:EOLhyphen"/>able therewith, as is herein-after Appointed in Caſe of Satisfaction, recovered for Loſſes, or In<g ref="char:EOLhyphen"/>juries ſufferred by ſuch Robbers, Tories, and Rappareés.</p>
+            <p>And whereas the Method appointed by the ſaid former Act, for the perſon or perſons Robbed, or Damnified, by ſuch Robbers, Tories, or Rap<g ref="char:EOLhyphen"/>pareés, to Recover Satisfaction for ſuch Da<g ref="char:EOLhyphen"/>mage, is Tedious, Difficult, and Chargeable.</p>
+            <p>
+               <pb n="6" facs="tcp:107366:5"/>Be it Enacted by the Authority aforeſaid, That in all Caſes where any perſon or perſons is by the former Act, Entituled to Recover Amends, or Satisfaction for any Loſs or Damage, Incurred, or Sufferred by any Robber, Tory, or Rappareé; ſuch perſon ſhall, or may purſue his Remedy for Recovery of ſuch Satisfaction, or Amends, at the next Aſſizes, to be held for the ſaid County, where ſuch Offence was Committed, before the Iudge or Iudges of Aſſize, and Grand-Iury of the ſaid County, to be Impan<g ref="char:EOLhyphen"/>nelled, and Sworn at the ſaid Aſſizes, in the Method following: That is to ſay, The per<g ref="char:EOLhyphen"/>ſon or perſons ſo Robbed, ſhall at the ſaid Aſ<g ref="char:EOLhyphen"/>ſizes, Exhibit and Deliver to the ſaid Iudge or Iudges of Aſſizes, his, or their Petition, therein Praying ſuch Satisfaction, and ſhall ſet forth in ſuch Petition, the time and place, when, and where, ſuch Robbery was Committed, or other Injury done to him or them, the ſeveral particular Goods Loſt, or other particular Da<g ref="char:EOLhyphen"/>mages Sufferred by him or them, and the par<g ref="char:EOLhyphen"/>ticular Value thereof, and by what Number of perſons ſuch Robbery was committed, or Injury done, and of what Religion ſuch Offen<g ref="char:EOLhyphen"/>der or Offenders, or any of them were, with the Names and Deſcriptions of ſuch of the ſaid Offenders as he doth know, and ſuch par<g ref="char:EOLhyphen"/>ticular Deſcriptions of ſuch others of them as he can give; and the ſaid matter ſhall there<g ref="char:EOLhyphen"/>upon, be Examined by ſuch Iudge or Iudges of Aſſizes, in open Court, in the preſence of ſuch Grand-Iury, on the Oath of the party Robbed, or Injured, and ſuch other Evidence as can be pro<g ref="char:EOLhyphen"/>duced touching the ſaid Facts, according to the na<g ref="char:EOLhyphen"/>ture thereof; and the ſaid Grand-Iury ſhall there<g ref="char:EOLhyphen"/>upon,
+<pb n="7" facs="tcp:107366:5"/>
+and are hereby Required, on Conſide<g ref="char:EOLhyphen"/>ration of the ſaid Matter, amongſt themſelves, to make ſuch Preſentment touching the ſame, and of ſuch Summ or Summs of Money, as the perſon or perſons ſo Robbed or Injured, by ſuch Offenders, ought to have, or receive for ſuch Loſs, Injury, or Damage, and by what perſons, whether Papiſts or Proteſtants, and in what Proportions for each of them, the ſame ought to be paid, for which Summ ſo Preſen<g ref="char:EOLhyphen"/>ted and Set, Proceſs ſhall Iſſue, in the nature of an Execution againſt any Inhabitant, or Inhabitants of the ſaid County, chargeable therewith, and all, and every the Inhabitants of the ſaid County, who ſhall by ſuch Preſentment be made Chargeable with, or Liable to all, or any part of the ſaid Damages, ſhall be Rateably, and proportionably Taxed for, and towards an equal Contribution for relief of ſuch Inhabi<g ref="char:EOLhyphen"/>tant or Inhabitants, againſt whom ſuch Pro<g ref="char:EOLhyphen"/>ceſs, in the nature of an Execution, is had; which Tax ſhall be Made, Levied, and Raiſed, by ſuch Ways and Means, and in ſuch Manner and Form, as is preſcribed and mentioned in a former Statute, Intituled, <hi>An Act for the fol<g ref="char:EOLhyphen"/>lowing Hue and Cry,</hi> made in the Tenth and Eleventh Year of the Reign of King <hi>Charles</hi> the Firſt, in this Kingdom.</p>
+            <p>Provided always, and it is hereby Enacted, That if any perſon or perſons ſhall find him, or themſelves Agrieved, by any Preſentment to be made in purſuance of this, or the former Act, ſuch perſon or perſons, in Caſe the Summ Pre<g ref="char:EOLhyphen"/>ſented to be Raiſed, do exceéd the Summ of Five pounds, ſhall, or may at the ſaid Aſſizes Tra<g ref="char:EOLhyphen"/>verſe the ſame, which Traverſe, ſhall be Tryed
+<pb n="8" facs="tcp:107366:6"/>
+at the ſame, or the next enſuing Aſſizes, as the Iudge or Iudges, who ſhall allow the ſame, ſhall think fit: And if on ſuch Traverſe, the Iſſue ſhall be found for the Traverſer, ſuch Pre<g ref="char:EOLhyphen"/>ſentment ſhall be Diſcharged; and if the Iſſue ſhall thereupon be found againſt the Traverſer, he, or they, ſo Traverſing, ſhall pay to the per<g ref="char:EOLhyphen"/>ſon or perſons, on whoſe behalf the Preſentment was made, the Summ of Twenty ſhillings for the Coſts of ſuch Traverſe, and the ſaid Pre<g ref="char:EOLhyphen"/>ſentment, ſhall thereupon be final and concluſive to all perſons.</p>
+            <p>Provided further, and it is hereby Enacted, That where the perſon or perſon ſo Robbed, or Injured, doth intend to proceéd to recover Satisfaction for the ſame, at any Aſſizes, againſt the Popiſh or Proteſtant Inhabitants of any Ba<g ref="char:EOLhyphen"/>rony, ſuch perſon or perſons, ſhall leave notice in Writing, with the High-Conſtable of ſuch Barony, of ſuch his intentions, and againſt what Inhabitants, whether Papiſts or Proteſtants, by the ſpace of Eight days, at leaſt, before ſuch Aſſizes; to the end that ſuch High-Conſtable may give publick notice thereof to the Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Barony, deſigned to be charged therewith, that they may be provided, and have an opportunity to bring Evidence for themſelves, and oppoſe the making ſuch Preſentment, or o<g ref="char:EOLhyphen"/>therwiſe may Traverſe ſuch Preſentment, after the ſame is made, if they ſhall think fit.</p>
+            <p>And it is hereby further Provided, That no ſuch Preſentment to be hereafter made, ſhall at any time be removed by <hi>Certiorari,</hi> or the Pro<g ref="char:EOLhyphen"/>ſecution thereupon otherwiſe delay'd, then by ſuch Traverſe, as aforeſaid; and that for ſuch time only, as ſhall be neceſſary for the Tryal of ſuch
+<pb n="9" facs="tcp:107366:6"/>
+Traverſe, as aforeſaid; nor ſhall any ſuch Pre<g ref="char:EOLhyphen"/>ſentment be at any time quaſhed for any In<g ref="char:EOLhyphen"/>formality, Imperfection, or Defect in form what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>Provided further, and it is hereby Enacted, That when, and as often as any of the Goods, for which the party ſo Robbed, hath received Satisfaction by ſuch Preſentment, as aforeſaid, ſhall be diſcovered, ſo as the ſame, or Satis<g ref="char:EOLhyphen"/>faction for them may be recovered, the perſon or perſons upon whom the Summ ſo Preſented, as aforeſaid, was Levyed, ſhall have the ſame, and the property thereof, is hereby Declared and Enacted to belong unto, and be Veſted in him or them, and he or they ſhall or may Main<g ref="char:EOLhyphen"/>tain ſuch Action, and purſue ſuch Remedy for the recovery and getting ſuch Goods, as the per<g ref="char:EOLhyphen"/>ſon or perſons Robbed might have, had or main<g ref="char:EOLhyphen"/>tained, before ſuch Satisfaction received by ſuch Preſentment for the ſame, as aforeſaid: Such Goods nevertheleſs, after the ſame ſhall be ſo gotten or recovered, to be Sold for the Moſt the ſame will Yeild, and the Money made by ſuch Sale, after the Charges for the recovery thereof are deducted, to be diſtributed, and paid equally and proportionably unto, and among the ſeveral perſons ſo Taxed; towards the payment of the Summ contained in the ſaid Preſentment, ac<g ref="char:EOLhyphen"/>cording to each of their ſaid ſeveral Taxations, towards the relief of the Perſons on whom the Summ Preſented was Levyed; ſuch Sale and Diſtribution, to be Directed, Settled, and Order<g ref="char:EOLhyphen"/>ed by the Iuſtice, or Iuſtices of the Peace, Signing ſuch Taxation; who are hereby Au<g ref="char:EOLhyphen"/>thorized and Required, to Direct, Settle, and Order the ſame accordingly.</p>
+            <p>
+               <pb n="10" facs="tcp:107366:7"/>And it is hereby further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the Clerk of the Crown, for the County, where ſuch Preſentment ſhall be made, ſhall on requeſt to him made, make and deliver to any perſon or perſons, deſiring the ſame, true Copies, Signed by him, of all ſuch Preſentments hereafter to be made, in pur<g ref="char:EOLhyphen"/>ſuance of this, or the ſaid former Act; and of all Warrants or Orders for the Levying of any Money grounded thereupon; for each of which, there ſhall be paid to the ſaid Clerk of the Crown, the Summ of One ſhilling only, and no more, and ſuch Clerk of the Crown, is hereby required to make and deliver the ſame accordingly.</p>
+            <p>Provided always, That this Act, or any thing herein contained, ſhall not extend, or be con<g ref="char:EOLhyphen"/>ſtrued to extend, to annul, or make void any Verdict, Iudgment, or other Proceédings already had or obtianed in purſuance of the ſaid for<g ref="char:EOLhyphen"/>mer Act, but that the ſame ſhall continue, and be as good, and effectual, to all intents and pur<g ref="char:EOLhyphen"/>poſes, as if this Act had never beén made, any thing herein contained to the contrary thereof, in any wiſe notwithſtanding.</p>
+            <p>Provided always, and it is hereby further Enacted, That during the continuance of this and the ſaid former Act, no Action or Sute ſhall be brought, or proſecuted, for recovery of any Satisfaction or Damages for any Robbery committed, or Loſs, or Injury ſuſtained, for which remedy is given by this, or the ſaid former Act, or any other Law or Statute what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>
+               <pb n="11" facs="tcp:107366:7"/>And be it further Enacted by the Authority aforeſaid, That if any perſon or perſons, who al<g ref="char:EOLhyphen"/>ready hath, or hereafter ſhall commit any Rob<g ref="char:EOLhyphen"/>bery or Burglary, ſhall while he is at large, and before he ſhall be Apprehended, or in Cuſto<g ref="char:EOLhyphen"/>dy for ſuch Offence, make Diſcovery of any Two, or more, of ſuch Robbers, Tories, or Rap<g ref="char:EOLhyphen"/>pareés, being alſo at large, and not in Cuſtody, ſo as ſuch Two, or more Robbers, Tories or Rappareés, ſhall thereupon be Apprehended, and Convicted for ſuch Offence, or ſhall Kill any Two, or more, of ſuch Tories, or Robbers, as ſhall be Indicted, and Proclamed, according to the ſaid former Act, and be out on their keéping, at the time of ſuch their being Killed, the perſon or perſons ſo making ſuch D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcovrry, or Killing ſuch Robbers, or Tories, as aforeſaid, ſhall not be proceéded againſt, for any Robbery, or Burglary, by him or them committed, before the making ſuch Diſcovery, or ſuch Killing as aforeſaid; but ſhall be Intituled unto, and ſhall have, and receive His Majeſty<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Gracious Par<g ref="char:EOLhyphen"/>don for the ſame; which Pardon ſhall in ſuch Caſe, alſo be a good Bar to any Appeal, to be brought for ſuch Robbery, or Burglary; and for that it hath, and may be doubted, whether on the bringing ſuch Proclaimed Tory, Rap<g ref="char:EOLhyphen"/>pareé, or Robber to the Bar, before ſuch Iudge or Iudges, as are Impowered to Try, and Paſs ſuch a Sentence on him, it be requiſite to give in Evidence againſt him, the Original Preſentment made by the Grand-Iury, of his being a Tory, Rappareé, or Robber, out on his keéping, according to the intent and meaning of the ſaid former Act: And alſo it hath, and may be doubted, whether the Original Procla<g ref="char:EOLhyphen"/>mation,
+<pb n="12" facs="tcp:107366:8"/>
+under the Great Seal, grounded on ſuch Preſentment, muſt be produced in Evidence a<g ref="char:EOLhyphen"/>gainſt him, or whether the Printed Procla<g ref="char:EOLhyphen"/>mation Reciting ſuch Preſentment to be made, and returned to the Clerk of the Council, of his, the ſaid Tories, Rappareés, or Rob<g ref="char:EOLhyphen"/>bers being ſo Preſented ſhall be ſufficient Evidence at Law, wherein to give Iudgment againſt him.</p>
+            <p>For clearing whereof, and that for the fu<g ref="char:EOLhyphen"/>ture ſo good and neceſſary a Law, for the Quiet and Preſervation of His Majeſty's good Sub<g ref="char:EOLhyphen"/>jects againſt ſuch Proclaimed Tories, Rappareés and Robbers, may not by any ſuch Scruples and Nicities be eluded, or the Execution thereof delay'd.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That at all times heareafter, during the con<g ref="char:EOLhyphen"/>tinuance in Force of this, or the ſaid former Act, the Printed Proclamation, wherein any per<g ref="char:EOLhyphen"/>ſon is named, or mentioned to be Preſented, by a Grand-Iury of any County in this King<g ref="char:EOLhyphen"/>dom, at the General Aſſizes, or Quarter-Seſ<g ref="char:EOLhyphen"/>ſions, held for the ſaid County, to be a Tory, Rappareé, or Robber, out on his Keéping, ſhall be taken, deémed, and adjudged ſufficient Evi<g ref="char:EOLhyphen"/>dence againſt ſuch Tory, Rappareé, or Robber.</p>
+            <p>Provided, That before ſuch Proclamation ſo given in Evidence, the Clerk of the Council for the time being, or his Deputy, do Certifie under his Hand and Seal, on the Back of ſuch Pro<g ref="char:EOLhyphen"/>clamation, That he hath ſuch Preſentment, as by the ſaid Act is required, Returned to him, and remaining in his Office, wherein the ſaid Tory, Rapppareé, or Robber is by name Pre<g ref="char:EOLhyphen"/>ſented, to be a Tory, Rappareé, or Robber,
+<pb n="13" facs="tcp:107366:8"/>
+out on his Keéping, by the ſame Name that he is Named, or Stiled in the ſaid Proclamation, and that the ſaid Proclamation was grounded thereon, and that the Original Proclamation, under the Great Seal, agreés <hi>Verbatim</hi> with the Printed Proclamation, whereon he has written ſuch his Certificate, which Proclama<g ref="char:EOLhyphen"/>tion, with ſuch Certificate endorſed thereon, the ſaid Clerk of the Council, for the time being, or his Deputy, ſhall ſend to the ſeveral Clerks of the Crown in this Kingdom, without any Feé or Reward.</p>
+            <p>And be it further Enacted, That this, and the former Act, ſhall continue in Force, for Sea<g ref="char:EOLhyphen"/>ven Years, from the Sixth of <hi>November,</hi> One thouſand Six hundred Ninety Seaven, and to the end of the next Seſſion of Parliament, after the Expiration of the ſaid Seaven Years, and no longer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
